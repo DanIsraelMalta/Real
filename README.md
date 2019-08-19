@@ -1,7 +1,10 @@
-"I have some bad news, floating point numbers are not real. 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b81b4d5ee5414219ac6444dc766c3b4b)](https://www.codacy.com/app/DanIsraelMalta/Real?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanIsraelMalta/Real&amp;utm_campaign=Badge_Grade)
+
+
+I have some bad news, floating point numbers are not real. 
 No one can squeeze infinity into a finite number of bits.
 People have to compromise, and it's ok as long as we are 
-aware of the trade-offs and limitations."
+aware of the trade-offs and limitations.
 
 After loosing several nights of sleep on a very nasty bug, 
 it eventually boiled down to an equation having very big and
